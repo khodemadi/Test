@@ -1,3 +1,2 @@
 # Test
-Is a test repo from iran 
-iran
+Is a test repo
